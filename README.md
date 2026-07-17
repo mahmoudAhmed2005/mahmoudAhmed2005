@@ -95,21 +95,21 @@ public class MahmoudAhmed {
             "Docker"
         };
 
- String[] skills = {
-      ☕ Java
-🟨 JSP
-🔵 Servlet
-🟧 JDBC
-🗄 Oracle Database
-🌱 Spring Boot
-💻 Eclipse IDE
-    };
+
 
     }
 
 
 
-  
+    public static void main(String[] args) {
+        System.out.println("Welcome to Mahmoud's Java World ☕");
+    }
+
+   public void goals() {
+        System.out.println("Become a Senior Java Backend Engineer.");
+    }
+}
+
 
 <h2 align="center">
   🤝 Connect With Me
@@ -135,12 +135,3 @@ public class MahmoudAhmed {
 
 </p>
 
-
-    public static void main(String[] args) {
-        System.out.println("Welcome to Mahmoud's Java World ☕");
-    }
-
-   public void goals() {
-        System.out.println("Become a Senior Java Backend Engineer.");
-    }
-}
