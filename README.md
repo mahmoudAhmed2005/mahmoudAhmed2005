@@ -1,5 +1,4 @@
 
-
 <h1 align="center">
   👋 Hi, I'm Mahmoud Ahmed
 </h1>
@@ -25,8 +24,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="45" height="45"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
 
 </p>
+
 
 <p align="center">
 
@@ -39,9 +43,12 @@
 🌐 JSP / Servlet  
 &nbsp; • &nbsp;
 🌱 Spring Boot  
+&nbsp; • &nbsp;
+🟧 HTML5  
+&nbsp; • &nbsp;
+🔵 CSS3  
 
 </p>
-
 ```java
 public class MahmoudAhmed {
 
