@@ -109,38 +109,29 @@ public class MahmoudAhmed {
 
 
 
-    <h2 align="center">
-  🔗 Connect With Me
+  
+
+<h2 align="center">
+  🤝 Connect With Me
 </h2>
 
 <p align="center">
 
 <a href="https://www.instagram.com/elg_ha_ly/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="https://www.facebook.com/mahmoud.elgaly.7524/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="https://www.linkedin.com/feed/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</p>
-
-
-<p align="center">
-
-📸 Instagram  
-&nbsp; • &nbsp;
-📘 Facebook  
-&nbsp; • &nbsp;
-💼 LinkedIn  
 
 </p>
 
