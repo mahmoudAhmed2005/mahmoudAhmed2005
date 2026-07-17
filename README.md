@@ -115,7 +115,7 @@ public class MahmoudAhmed {
   🤝 Connect With Me
 </h2>
 
-<p align="center">
+
 
 <a href="https://www.instagram.com/elg_ha_ly/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
