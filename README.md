@@ -1,16 +1,56 @@
-## Hi there 👋
+┌───────────────────────────────────────────────┐
+│              👋 Hi, I'm Mahmoud               │
+│        Java Backend Developer ☕              │
+│ Oracle • JSP • Servlet • JDBC • Spring Boot  │
+└───────────────────────────────────────────────┘
 
-<!--
-**mahmoudAhmed2005/mahmoudAhmed2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+public class MahmoudAhmed {
 
-Here are some ideas to get you started:
+    private String role = "Java Backend Developer";
+    private String language = "Java";
+    private String framework = "JSP & Servlet";
+    private String database = "Oracle SQL";
+    private String tools = "Git, GitHub, Eclipse";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public void aboutMe() {
+        System.out.println("Passionate about Backend Development");
+        System.out.println("Always learning new technologies");
+    }
+
+    public String[] currentProjects() {
+        return new String[]{
+            "ItemProjectServlet ",
+            "E-WaleetSystemConsole",
+           
+        };
+    }
+
+    public String[] learning() {
+        return new String[]{
+            "Spring Boot",
+            "REST API",
+            "Docker"
+        };
+
+ String[] skills = {
+      ☕ Java
+🟨 JSP
+🔵 Servlet
+🟧 JDBC
+🗄 Oracle Database
+🌱 Spring Boot
+💻 Eclipse IDE
+    };
+
+    }
+
+
+    public static void main(String[] args) {
+        System.out.println("Welcome to Mahmoud's Java World ☕");
+    }
+
+   public void goals() {
+        System.out.println("Become a Senior Java Backend Engineer.");
+    }
+}
