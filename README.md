@@ -32,6 +32,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+&nbsp;
+<img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="45" height="45"/>
 
 </p>
 
@@ -45,6 +47,8 @@
 🌑 Eclipse IDE  
 &nbsp; • &nbsp;
 🗄 Oracle Database  
+&nbsp; • &nbsp;
+🦫 DBeaver  
 &nbsp; • &nbsp;
 🌐 JSP / Servlet  
 &nbsp; • &nbsp;
