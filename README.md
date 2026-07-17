@@ -19,6 +19,8 @@
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/>
 &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45" height="45"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="45" height="45"/>
@@ -28,6 +30,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
 
 </p>
 
@@ -38,6 +42,8 @@
 &nbsp; • &nbsp;
 🧠 IntelliJ IDEA  
 &nbsp; • &nbsp;
+🌑 Eclipse IDE  
+&nbsp; • &nbsp;
 🗄 Oracle Database  
 &nbsp; • &nbsp;
 🌐 JSP / Servlet  
@@ -47,6 +53,10 @@
 🟧 HTML5  
 &nbsp; • &nbsp;
 🔵 CSS3  
+&nbsp; • &nbsp;
+💻 Visual Studio Code  
+&nbsp; • &nbsp;
+🎨 Adobe Dreamweaver  
 
 </p>
 ```java
