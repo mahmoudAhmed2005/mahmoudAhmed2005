@@ -133,5 +133,16 @@ public class MahmoudAhmed {
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+&nbsp;
 
+<a href="https://github.com/mahmoudAhmed2005" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:elgalym77@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
