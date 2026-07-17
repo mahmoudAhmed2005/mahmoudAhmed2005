@@ -108,6 +108,43 @@ public class MahmoudAhmed {
     }
 
 
+
+    <h2 align="center">
+  🔗 Connect With Me
+</h2>
+
+<p align="center">
+
+<a href="https://www.instagram.com/elg_ha_ly/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45" height="45"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.facebook.com/mahmoud.elgaly.7524/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" height="45"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/feed/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+</a>
+
+</p>
+
+
+<p align="center">
+
+📸 Instagram  
+&nbsp; • &nbsp;
+📘 Facebook  
+&nbsp; • &nbsp;
+💼 LinkedIn  
+
+</p>
+
+
     public static void main(String[] args) {
         System.out.println("Welcome to Mahmoud's Java World ☕");
     }
