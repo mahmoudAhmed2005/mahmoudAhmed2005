@@ -1,8 +1,46 @@
-┌───────────────────────────────────────────────┐
-│              👋 Hi, I'm Mahmoud               │
-│        Java Backend Developer ☕              │
-│ Oracle • JSP • Servlet • JDBC • Spring Boot  │
-└───────────────────────────────────────────────┘
+
+
+<h1 align="center">
+  👋 Hi, I'm Mahmoud Ahmed
+</h1>
+
+<h3 align="center">
+  ☕ Java Backend Developer
+</h3>
+
+<p align="center">
+  Building Backend Applications using Java Technologies
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="45" height="45"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/>
+
+</p>
+
+<p align="center">
+
+☕ Java  
+&nbsp; • &nbsp;
+🧠 IntelliJ IDEA  
+&nbsp; • &nbsp;
+🗄 Oracle Database  
+&nbsp; • &nbsp;
+🌐 JSP / Servlet  
+&nbsp; • &nbsp;
+🌱 Spring Boot  
+
+</p>
 
 ```java
 public class MahmoudAhmed {
